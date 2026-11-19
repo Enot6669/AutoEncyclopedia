@@ -1,0 +1,10 @@
+/build/
+*.apk
+*.idsig
+*.p12
+*.jks
+*.keystore
+__pycache__/
+.idea/
+.gradle/
+local.properties
